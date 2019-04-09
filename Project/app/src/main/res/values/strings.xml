@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="hintName">UserName</string>
+    <string name="password">Password</string>
+    <string name="buttonLogin">Login</string>
+    <string name="buttonSignUp">Sign Up</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="street">Street</string>
+    <string name="city">City</string>
+    <string name="postal">Postal Code</string>
+    <string name="user">UserName</string>
+    <string name="pwd">Password</string>
+    <string name="create">Create Account</string>
+    <string name="success">Your Account Has Been Successfuly Created!</string>
+    <string name="back">Back to Login</string>
+    <string name="textAddService">Add Service</string>
+    <string name="hintAdd">Add Service</string>
+    <string name="btnAdd">ADD</string>
+    <string name="textEditService">Edit Service</string>
+    <string name="textServiceName">Service Name</string>
+    <string name="textFind">Find Service</string>
+    <string name="textDelete">Delete Service</string>
+    <string name="btnDelete">Delete</string>
+    <string name="textHourly">Hourly Rate</string>
+</resources>
