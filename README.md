@@ -1,6 +1,6 @@
-# Android-Game
+# Android-Application  
 
  
  
- Offline side basic 2d platformer.
+ Public service listing app. Has three users; Admin, service provider and service requester.  
  
